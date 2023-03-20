@@ -1,1 +1,2 @@
 Hello, Odin Project!
+Testing commit without message param.
